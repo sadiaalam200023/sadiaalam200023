@@ -1,4 +1,4 @@
-##Hello there 👋
+Hello there 👋
 
 My name is Sadia Alam. I am a recent Computer Science graduate from Independent University. I have done some research related works on image processing and currently exploring modern frameworks for web applications with hands on projects. I also wish to get into pixel style game development someday.
 
