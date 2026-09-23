@@ -5,6 +5,7 @@ My name is Sadia Alam. I am a recent Computer Science graduate from Independent 
 .
 
 🚀 Currently Working On - 
+
 🌱 Learning React, TypeScript, and Tailwind CSS
 💻 Building projects with React and JavaScript
 🗄️ Practicing SQL and database concepts
@@ -14,9 +15,8 @@ fundamentals
 
 🛠️ Skills & Technologies -
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,java,php,mysql,git,github,vscode" /> </p>
-🌐 Most Used Languages
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaalam200023&layout=compact&theme=tokyonight" /> </p>
 
 <!--
 **sadiaalam200023/sadiaalam200023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
