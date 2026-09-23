@@ -16,7 +16,12 @@ fundamentals
 🛠️ Skills & Technologies -
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,java,php,mysql,git,github,vscode" /> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaalam200023&layout=compact&theme=tokyonight" /> </p>
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiaalam200023&show_icons=true&theme=default) | 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-sadiaalam200023&layout=compact&theme=default) |
+
+---
+
+
 
 <!--
 **sadiaalam200023/sadiaalam200023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
