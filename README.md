@@ -7,9 +7,13 @@ My name is Sadia Alam. I am a recent Computer Science graduate from Independent 
 🚀 Currently Working On - 
 
 🌱 Learning React, TypeScript, and Tailwind CSS
+
 💻 Building projects with React and JavaScript
+
 🗄️ Practicing SQL and database concepts
+
 🎨 Exploring UI/UX and web design
+
 📚 Improving my problem-solving and programming fundamentals
 fundamentals
 
